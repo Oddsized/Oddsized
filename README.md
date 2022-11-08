@@ -1,3 +1,5 @@
+![](https://oddsized.com/brand/oddsized_logo_medium_blue.png)
+
 # Oddsized Interactive 
 
 [Oddsized interactive™](https://oddsized.com/) (github.com/[Oddsized](https://github.com/Oddsized)) is entrepeneur in Art and IT. 
